@@ -1,0 +1,24 @@
+{
+    "dev": false,
+    "token": "Nzg4NzQyOTUyNzc5Nzc2MDcw.X9n8Hg.oZ-Akt-t4Q7bcBJaryvBHaI31bM",
+    "owners": [489047547235794944],
+    "imdbKey": "",
+    "reportsChannelId": "788711154955452417",
+    "openWeatherMapKey": "",
+    "feedBackChannelId": "788711154955452417",
+    "mongodbUri": "",
+    "giphyApiKey": "",
+    "errorLogsChannelId": "788711154955452417",
+    "alexflipnoteKey": "",
+    "dashboard": {
+        "enabled": false,
+        "botName": "Justicemusic",
+        "discordApiUrl": "https://discordapp.com/api/v8/",
+        "jwtSecret": "",
+        "clientId": "",
+        "clientSecret": "",
+        "callbackUrl": "YOUR_URL + /api/auth/callback",
+        "dashboardUrl": "http://localhost:3030",
+        "port": 3030
+    }
+}
